@@ -20,6 +20,10 @@ body {
     background: #a6ff76;
 }
 
+.keyboard--hidden {
+    bottom: -100%;
+}
+
 .keyboard__keys {
     text-align: center;
 }
